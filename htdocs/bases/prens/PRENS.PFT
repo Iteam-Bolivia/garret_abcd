@@ -1,0 +1,6 @@
+'ÚÄÄÄÄÄ¿',/,'³',MFN(5),'³ ',/,'ÀÄÄÄÄÄÙ',/#MDU,"TITULO: ", D12,(V12(10,12)/), MPL
+,"AUTOR:  ",V10+|; |,/,"PERIODICO: ",D30,(V30(10,12)/)"FECHA:     ",V43,C38,"FEC
+HA NORM: ",V44,/,"LUGAR:     ",V39,C38,'PAIS: ',IF V40 = 'BO' THEN 'Bolivia' FI,
+/,"INF. DESCRIPT.: ",V42,C38,"GENERO: ",V100+|; |,/#"Descriptores Tem ticos: ",V
+76/,"Descrip. Estad¡sticos:  ",V77/,"DIV. ADMIN.:  ",V85,/#C5"SOLICITAR a/por ==
+==> : " V3/##

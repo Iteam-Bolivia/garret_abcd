@@ -1,0 +1,22 @@
+ 16 1 1778
+  1  3  3  5  6  8  9  9 10 10 11 11 13 15 18 19
+ 15  1 43  1  1  1  1 53  1 36  1 38  1  1  1  1
+  2  3  3  5  6  8  9  9 10 10 11 11 13 15 18 19
+  1 21 61 17  9 12 19 59  8 54  8 58 25 28 18  8
+ 2 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0
+ 5 0 0 0 0 0 0 1 0 0 0 3 0 0 0 0
+  66  19  17  15   7  10  17   5   6  17   7  19  23  26  16   6
+     0    20    20   -63  -151    65    30     2    27    27    28     8  -136  -133   -63   -73
+   0  64  75 113  44  29  81  44  41  54 123   0 113  76 134   0
+    0   11    0    0    0    0    0    0    0    0    0    0    0    0    0    0
+     0     1     3    10    12    30    39    40    43    42   100    44    76    77    85    68
+BASE DE DATOS - ARTICULOS DE PERIODICOS                   Elab.FMMNOMBRE DEL ARCHIVO:UBICACION FISICA:AUTOR PERSONAL:TITULO:PERIODICO
+:LUGAR DE EDICION:PAIS:FECHA:INF. DESCRIPTIVA:GENERO:FECHA NORMALIZADA: DESCRIPTORES TEMATICOS:DESCRIPTORES ESTADISTICOS:DIVISIONES A
+DM.:NOTAS:Ingrese el nombre del archivo al cual pertenece la base de datosIngrese el nombre del archivo y el codigo de ubicacion fisi
+ca del documentoCampo repetible, use % para separar los autores, sin dejar espacios entre si.   Ej.: Guzman, Arturo%Flores, LidiaIngr
+ese el titulo de la nota, articulo, etc.Anote el nombre del periodicoIngrese el nombre de la ciudad, pueblo, etc., donde se publico e
+l articulo o notaIngrese codigo ISO de pais. Eje.: BO, CL, ECIngrese fecha de publicacion del articuloAnote si el articulo tiene tbls
+., maps., grafs., ilus.Campo repetible, use % Escoja entre las sgtes. opciones: Entrevista, Editorial,  Noticia, Comentario, Articulo
+, Publicidad.Ingrese los descriptores en mayusculas y entre delimitadores. Ej.: <MORTALIDAD INFANTIL> <URBANIZACION> <POBREZA>En mayu
+sculas y entre delimitadores. Eje.: <FECUNDIDAD> <MORTALIDAD MATERNA>Ingrese las ciudades, provincias, etc., de los cuales se ocupa e
+l articulo, entre delimitadores. Ej.: <CHUQUISACA> <PROVINCIA OROPEZA>HEMERSIRESE99999999

@@ -1,0 +1,1 @@
+mx coco fst=@coco.fst uctab=../../isisuc.tab actab=../../isisac.tab fullinv=coco -all now tell=100

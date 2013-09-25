@@ -1,0 +1,9 @@
+'ÚÄÄÄÄÄÄ¿',/,'³ ',MFN(4),' ³',/,'ÀÄÄÄÄÄÄÙ',C40,|    Fecha ingreso: |v94(2,2)/#,V
+10(0,2),|: |V11(0,2),/,(|(|V14(4,4)|)|/),/,|, |,|(|v31(4,4)|).  |,,V30(4,4)|-|,v
+29(4,4)/,,MPL,ref(l("CO="V38),V610(4,4)|.  |),ref(l("CO="V35),V610|.  |),/,MDL,,
+V24(4,4),/,|ISSN |V40(0,4)/,,|Editor: |v48(0,6),,if a(v48) then |Editor: |v14(6,
+6)/ fi,/,"Direccion: "V46(12,11),/,MPL,v49': ',V47(6,6),/,MPL,ref(l("CO="V91),V6
+10(4,4)|.  |)#,MHL,'Existencias: ',(V99(13,13)/),#,MPL,V44(0,2),MDL,%##,|Precio 
+suscripci¢n: |v92(0,4),/,|Fecha precio: |v93(0,4),/,|Fecha vencimiento suscripci
+¢n: |V95(0,4)/,|Notas: |,V9(0,4),"Usuarios interesados: "v96(0,4)+|; |,#,MHL,|Ce
+ntro Cooperante: |V1(0,4),##

@@ -1,0 +1,10 @@
+coco.*=%path_database%coco/data/coco.*
+coco.pft=c%path_database%coco/www/coco.pft
+prologoact.pft=%path_database%www/prologoact.pft
+epilogoact.pft=%path_database%www/epilogoact.pft
+autoridades.pft=%path_database%coco/pfts/en/autoridades.pft
+
+marc.*=%path_database%marc/data/marc.*
+
+
+

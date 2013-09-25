@@ -1,0 +1,4 @@
+**Thursday 19th of September 2013 04:35:33 PM Operador: abcd
+/central/common/inicio.php D://ABCD/www/htdocs/central/dataentry/wxis/login.xis &base=acces&cipar=\ABCD\www\bases\par/acces.par&login=abcd&password=adm&path_db=\ABCD\www\bases\&syspar=\ABCD\www\bases\par/syspar.par
+**Thursday 19th of September 2013 04:36:14 PM Operador: abcd
+/central/dbadmin/crearbd_ex_copy.php D://ABCD/www/htdocs/central/dataentry/wxis/inicializar_bd.xis &base=coco&cipar=\ABCD\www\bases\par/coco.par&path_db=\ABCD\www\bases\&syspar=\ABCD\www\bases\par/syspar.par

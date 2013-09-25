@@ -1,0 +1,24 @@
+W:PRENS 
+F:PRENS 
+S:PRENS 
+***
+NOMBRE DEL ARCHIVO                                1 20 0 0
+UBICACION FISICA                                  3 20 0 1
+NIVEL DE REGISTRO             AA                  6 2 1 0
+AUTOR PERSONAL                                    10 70 0 1
+TITULO                                            12 160 0 0
+TITULO DE LA P. SERIADA                           30 69 0 1
+LUGAR DE EDICION                                  39 30 0 0
+PAIS                                              40 2 1 0
+INF. DESCRIPTIVA                                  42 27 0 0
+FECHA                                             43 27 0 0
+FECHA NORMALIZADA             99999999            44 8 3 0
+NOTAS                                             68 75 0 0
+ALCANCE TEMPORAL DESDE        99999999            74 8 2 0
+ALCANCE TEMPORAL HASTA        99999999            75 8 2 0
+DESCRIPTORES                                      76 400 0 0
+DESCRIPTORES CONT. ESTADISTICO                    77 400 0 0
+CATEGORIA GEOGRAFICA          AA                  82 2 1 0
+PAISES PRIMARIOS                                  83 10 1 1
+DIVISIONES ADMINISTRATIVAS                        85 100 0 0
+GENERO                                            100 28 0 1

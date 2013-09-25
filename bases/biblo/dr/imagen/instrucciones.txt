@@ -1,0 +1,6 @@
+Instrucciones para descompactar:
+
+Los archivos acquisitions.zip, circulation.zip, dataentry.zip, dbadmin.zip, copies.zip y documentacion.zip
+se descompactan en las carpeta htdocs/central
+
+El archivo 00.zip se descompacta en la carpeta abcd/www/bases/lang

@@ -1,0 +1,35 @@
+W:COPUS SCOEX SCODI EMUSA KARDE 
+F:COPUSESCOCC SCOUI SCORECEMUSA KARDEX
+S:COPUSEEMUSA KARDEXCAM   
+***
+CENTRO COOPERANTE                                 1 20 0 0
+NOMBRE DEL ARCHIVO                                2 15 0 0
+ESTADO DE LA PUBLICACION                          5 1 0 0
+TIPO DE PUBLICACION (SER.)                        7 1 0 0
+TITULO                                            10 300 0 0
+SUBTITULO                                         11 250 0 0
+MENCION RESPONSABILIDAD                           14 300 0 1
+OTRA INF. TITULO                                  24 250 0 1
+FECHA FINAL                                       29 50 0 0
+FECHA INICIO                                      30 50 0 0
+CODIGO PAIS                                       31 2 1 0
+IDIOMA TEXTO                                      35 2 0 1
+IDIOMA RESUMEN                                    36 2 0 1
+FRECUENCIA                                        38 31 1 0
+ISSN                                              40 9 0 0
+DESCRIPTORES                                      44 40 0 1
+EDITOR                                            48 250 0 0
+DIRECCION                                         46 100 0 0
+CIUDAD                                            49 100 0 0
+PAIS                                              47 30 0 0
+NOTAS                                             90 100 0 1
+PROCEDENCIA                                       91 31 0 0
+PRECIO                                            92 20 0 0
+FECHA PRECIO                                      93 8 2 0
+FECHA INGRESO                                     94 8 2 0
+FECHA VENCIMIENTO SUSCRIPCION                     95 8 2 0
+USUARIOS INTERESADOS                              96 50 0 1
+EXISTENCIAS                                       99 200 0 1
+CODIGO                                            600 2 0 0
+DESARROLLO CODIGO                                 610 50 0 0
+RESUMEN                                           100 1500 0 0
